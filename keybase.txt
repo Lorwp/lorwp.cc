@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/lorwp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lorwp.cc
+  * I am lorwp (https://keybase.io/lorwp) on keybase.
+  * I have a public key ASBeStxiW4EElCuWffG3JQ3qYCPnNK3CAMdsmz7k6Go_9Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101fb24e8fb2205373d3dee81c88920baab8712c378c517c4c67101170edabb04c90a",
+      "host": "keybase.io",
+      "kid": "01205e4adc625b8104942b967df1b7250dea6023e734adc200c76c9b3ee4e86a3ff40a",
+      "uid": "e7021fa4860c90eff2b3473a1f220019",
+      "username": "lorwp"
+    },
+    "merkle_root": {
+      "ctime": 1605137414,
+      "hash": "d69594b323aa15608d548c1b4103757682e3f5016de5f50e059b2cdbf40282c9225a7a5510a6427a36ac291b743efb4da004a97c01e8841490171349e1cc9778",
+      "hash_meta": "aee357c1860a5fe9ff73060913275f128d8b07ffac460552e65063028cc04d27",
+      "seqno": 18096708
+    },
+    "service": {
+      "entropy": "mlntFi8l27hbuegQbD7d/6sI",
+      "hostname": "lorwp.cc",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.2"
+  },
+  "ctime": 1605137419,
+  "expire_in": 504576000,
+  "prev": "db078c7ecce6e1ddf2f8c65c8e1eee461a651524c282c245c18fc735413272a9",
+  "seqno": 91,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXkrcYluBBJQrln3xtyUN6mAj5zStwgDHbJs+5OhqP/QKp3BheWxvYWTESpcCW8Qg2weMfszm4d3y+MZcjh7uRhplFSTCgsJFwY/HNUEycqnEIFVxoYN1VSOvmLBdOi4hj1LLpyEtcwLIQJmXojobEfeLAgHCo3NpZ8RA0AJi5FuuXb3NROFRVGBRM19snN+lEju1ZZpQk6FT1GNomdJmR47vqDKor9HvfGKt3T3w/ZQTXhwfz0yExbCUBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILzNuv/hfPI0P6Fn40wSdKdsZzo9XM3IANW1fK/g7mJNo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lorwp
+
+==================================================================
